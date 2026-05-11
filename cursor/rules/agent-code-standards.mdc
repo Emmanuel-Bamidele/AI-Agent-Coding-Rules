@@ -1,0 +1,20 @@
+---
+description: Repository-wide coding agent standards
+alwaysApply: true
+---
+
+Before making changes, read `agent-instructions/AGENT.md`.
+
+Follow all repository rules in `agent-instructions/`.
+
+Key rules:
+
+- Keep changes small and focused.
+- Do not invent requirements.
+- Do not refactor unrelated code.
+- Add or update tests for behavior changes.
+- Do not add dependencies unless justified.
+- Do not weaken security.
+- Run relevant checks.
+- Report failures honestly.
+- Use `agent-instructions/agent-response-format.md` in final responses.
