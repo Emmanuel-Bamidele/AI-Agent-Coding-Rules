@@ -260,8 +260,8 @@ ci-cd
 technical-debt
 ```
 
----
+- ---
 
 ## License
 
-MIT is recommended if you want people to freely copy these files into their repositories.
+MIT  
