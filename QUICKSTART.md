@@ -1,8 +1,8 @@
 # Quickstart
 
-## 1. Copy files
+If you have not installed using the HOW_TO_INSTALL.md (https://github.com/Emmanuel-Bamidele/AI-Agent-Coding-Rules/blob/main/HOW_TO_INSTALL.md) instructions, please go ahead and install before moving forward.
 
-If you have not installed using the HOW_TO_INSTALL.md (https://github.com/Emmanuel-Bamidele/AI-Agent-Coding-Rules/blob/main/HOW_TO_INSTALL.md) instructions, please go ahead and install before moving forward. 
+## 1. Copy files 
 
 Copy `agent-instructions/` into your codebase.
 
