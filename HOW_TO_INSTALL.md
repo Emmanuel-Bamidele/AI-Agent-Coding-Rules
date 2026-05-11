@@ -1,7 +1,13 @@
 # How to Install
 
-This ZIP uses visible folder names so the files are easy to see on your computer.
+Want your agent to set this up for you? Paste this into your coding agent: 
 
+```text
+Install AI-Agent-Coding-Rules into this codebase from https://github.com/Emmanuel-Bamidele/AI-Agent-Coding-Rules: download or clone the repository, copy the agent-instructions folder exactly as provided, do not rewrite the instruction files, update paths only if necessary, and ask me whether to commit it or add agent-instructions/ to .gitignore.
+```
+##If you want to do it yourself, follow this:
+
+---
 ## Recommended folder name
 
 Put the main rules folder in your codebase as:
