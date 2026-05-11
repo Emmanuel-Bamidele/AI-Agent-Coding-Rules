@@ -2,6 +2,8 @@
 
 ## 1. Copy files
 
+If you have not installed using the HOW_TO_INSTALL.md file instructions, please go ahead and install before moving forward. 
+
 Copy `agent-instructions/` into your codebase.
 
 Optional: also copy `cursor/`, `claude/`, `codex/`, `vscode/`, and `github/` integrations depending on your tools.
